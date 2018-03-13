@@ -22,7 +22,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Paste | CMD+V |
 | Cut | CMD+X |
 | Save |CMD+S |
-| Select | |
+| Select | [there are 7 ways to select](http://osxdaily.com/2012/02/23/keyboard-shortcuts-to-navigate-select-text-mac-os-x/)|
 | Undo | CMD+Z|
 | Redo | CMD+SHIFT+Z|
 | Find |CMD+F |
