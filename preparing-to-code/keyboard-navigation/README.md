@@ -21,16 +21,16 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Copy | CMD+C|
 | Paste | CMD+V |
 | Cut | CMD+X |
-| Save | |
+| Save |CMD+S |
 | Select | |
 | Undo | CMD+Z|
-| Redo | |
+| Redo | CMD+SHIFT+Z|
 | Find |CMD+F |
-| Switch app | |
-| Open spotlight search | |
-| Force quit | |
-| Full-screen screen shot | |
-| User-defined region screen shot | |
+| Switch app | SHIFT+CMD+~|
+| Open spotlight search |CMD+SPACE |
+| Force quit | Option+CMD+ESC|
+| Full-screen screen shot |SHIFT+CMD+3 |
+| User-defined region screen shot | SHIFT+CMD+4|
 
 ## MaxOSX overview
 
