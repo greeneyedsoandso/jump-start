@@ -18,14 +18,14 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 
 | What the command does | Mac shortcut |
 | :--- | :--- |
-| Copy | |
-| Paste | |
-| Cut | |
+| Copy | CMD+C|
+| Paste | CMD+V |
+| Cut | CMD+X |
 | Save | |
 | Select | |
-| Undo | |
+| Undo | CMD+Z|
 | Redo | |
-| Find | |
+| Find |CMD+F |
 | Switch app | |
 | Open spotlight search | |
 | Force quit | |
