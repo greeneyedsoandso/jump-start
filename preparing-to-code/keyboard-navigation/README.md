@@ -53,7 +53,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 1. Use Spotlight to open the finder
     * What does tab do in finder?
     * What does shift + tab do in finder?
-1. Do the following commands using only the keyboard:[chrome shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
+1. Do the following commands using only the keyboard: [chrome shortcuts](https://support.google.com/chrome/answer/157179?hl=en)
     1. Open your web browser
     1. Navigate to adadevelopersacademy.org
     1. Keeping the Ada browser tab open, open a new tab
