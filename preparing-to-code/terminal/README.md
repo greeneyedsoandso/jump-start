@@ -71,7 +71,7 @@ Try out these commands first, and record what happened.
 | `cd ~` |navigates to the home directory |
 | `cd .` | nothing. |
 | `cd ..` | takes you one level up|
-| `cd -` | shows path?|
+| `cd -` | shows path? i think this is a return to previous?|
 
 Then use `man` to explore these commands.
 
