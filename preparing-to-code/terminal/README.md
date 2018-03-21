@@ -135,7 +135,7 @@ Each practice example will first list the `commands` followed by the `directory 
 
     ##### Notes
     * `pwd` at the end of the commands should result in `market/sweets/`
-    
+    * I missed a command here. Will come back when I have figured out how to move a folder.
 1. lessons
     ##### Commands
     ```
@@ -159,6 +159,8 @@ Each practice example will first list the `commands` followed by the `directory 
     lessons/notes/
     lessons/notes/learning-styles.md
     ```
+    Where the hell did 00-learning-style go in this result?
+    
 1. songs
     ##### Commands
     ```
@@ -166,12 +168,23 @@ Each practice example will first list the `commands` followed by the `directory 
     $ touch songs/song1.md
     $ touch songs/song2.md
     $ touch songs/song10.md
-    $ rm songs/*1*
+    $ rm songs/*1* 
     $ cp song2.md song3.md
     $ touch song4.md
     $ mv song4.md song1.md
     ```
-
+This doesn't work as written. Has to be:
+```
+    $ mkdir songs
+    $ touch songs/song1.md
+    $ touch songs/song2.md
+    $ touch songs/song10.md
+    $ rm songs/*1* 
+    $ cd songs
+    $ cp song2.md song3.md
+    $ touch song4.md
+    $ mv song4.md song1.md
+    ```
     ##### Directory structure
     ```
     songs/
