@@ -135,7 +135,7 @@ Each practice example will first list the `commands` followed by the `directory 
 
     ##### Notes
     * `pwd` at the end of the commands should result in `market/sweets/`
-    * I missed a command here. Will come back when I have figured out how to move a folder.
+    * I missed a command here. Will come back when I have figured out how to move a folder. (Instead of move, I deleted and recreated. rm -r is what you need to delete a directory.
 1. lessons
     ##### Commands
     ```
