@@ -64,14 +64,14 @@ Try out these commands first, and record what happened.
 
 | Command | What happened? |
 | :--- | :--- |
-| `ls -a .` | | 
-| `man ls` | |
-| `q` | |
-| `pwd` | |
-| `cd ~` | |
-| `cd .` | |
-| `cd ..` | |
-| `cd -` | |
+| `ls -a .` | lists folders in the directory including ones that start with a dot| 
+| `man ls` | shows the "man page" instructions for ls. was trapped here until i tried `q` on a whim.|
+| `q` | exits the man page. doesn't do anything from a command prompt|
+| `pwd` | shows the file path for the current location|
+| `cd ~` |navigates to the home directory |
+| `cd .` | nothing. |
+| `cd ..` | takes you one level up|
+| `cd -` | shows path?|
 
 Then use `man` to explore these commands.
 
