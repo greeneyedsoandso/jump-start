@@ -26,7 +26,7 @@ Fill in the table below with the matching MacOSX shortcuts, if you don't know th
 | Undo | CMD+Z|
 | Redo | CMD+SHIFT+Z|
 | Find |CMD+F |
-| Switch app | SHIFT+CMD+~|
+| Switch app | CMD+TAB|
 | Open spotlight search |CMD+SPACE |
 | Force quit | Option+CMD+ESC|
 | Full-screen screen shot |SHIFT+CMD+3 |
