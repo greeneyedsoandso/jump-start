@@ -69,7 +69,7 @@ Try out these commands first, and record what happened.
 | `q` | exits the man page. doesn't do anything from a command prompt|
 | `pwd` | shows the file path for the current location|
 | `cd ~` |navigates to the home directory |
-| `cd .` | nothing. |
+| `cd .` | nothing. the dot acts on the current context...somehow. i keep messing with this one.|
 | `cd ..` | takes you one level up|
 | `cd -` | shows path? i think this is a return to previous?|
 
